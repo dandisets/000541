@@ -27,9 +27,9 @@ assetsSummary:
     name: Caenorhabditis elegans
     schemaKey: SpeciesType
   variableMeasured:
+  - ProcessingModule
   - OpticalChannel
   - ImagingPlane
-  - ProcessingModule
 citation: Sprague, Daniel (2023) NeuroPAL Microfluidic Chip Images and GCaMP activity
   (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
