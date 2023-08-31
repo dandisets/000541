@@ -14,11 +14,11 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 12338002904
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 15761064724
   numberOfFiles: 16
   numberOfSubjects: 16
   schemaKey: AssetsSummary
@@ -28,6 +28,7 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
+  - PlaneSegmentation
   - OpticalChannel
   - ImagingPlane
 citation: Sprague, Daniel (2023) NeuroPAL Microfluidic Chip Images and GCaMP activity
