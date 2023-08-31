@@ -16,11 +16,9 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 22611239404
-  numberOfFiles: 16
-  numberOfSubjects: 16
+  numberOfBytes: 29083363066
+  numberOfFiles: 20
+  numberOfSubjects: 20
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
@@ -29,8 +27,6 @@ assetsSummary:
   variableMeasured:
   - ProcessingModule
   - PlaneSegmentation
-  - OpticalChannel
-  - ImagingPlane
 citation: Sprague, Daniel (2023) NeuroPAL Microfluidic Chip Images and GCaMP activity
   (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
