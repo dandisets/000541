@@ -16,17 +16,17 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 29083363066
-  numberOfFiles: 20
-  numberOfSubjects: 20
+  numberOfBytes: 26160334999
+  numberOfFiles: 18
+  numberOfSubjects: 18
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
     name: Caenorhabditis elegans
     schemaKey: SpeciesType
   variableMeasured:
-  - ProcessingModule
   - PlaneSegmentation
+  - ProcessingModule
 citation: Sprague, Daniel (2023) NeuroPAL Microfluidic Chip Images and GCaMP activity
   (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
