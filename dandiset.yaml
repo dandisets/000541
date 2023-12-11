@@ -16,9 +16,9 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 29069884499
-  numberOfFiles: 20
-  numberOfSubjects: 20
+  numberOfBytes: 27615738143
+  numberOfFiles: 19
+  numberOfSubjects: 19
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
@@ -38,7 +38,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-05-12T00:36:15.913485+00:00'
-datePublished: '2023-05-12T00:36:17.200814+00:00'
+datePublished: '2023-12-11T19:35:41.657564+00:00'
 description: 'NeuroPAL Microfluidic chip images and GCaMP activity from "NeuroPAL:
   A Multicolor Atlas for Whole-Brain Neuronal Identification in C. elegans" and "Extracting
   neural signals from semi-immobilized animals with deformable non-negative matrix
@@ -52,13 +52,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000541/versions/draft/assets/
 name: NeuroPAL Microfluidic Chip Images and GCaMP activity
 publishedBy:
-  endDate: '2023-05-12T00:36:17.200814+00:00'
-  id: urn:uuid:a995262e-518e-4778-9a14-7adf10453c33
+  endDate: '2023-12-11T19:35:41.657564+00:00'
+  id: urn:uuid:b35e2857-dd44-4718-8a95-d821388d0eed
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-05-12T00:36:17.200814+00:00'
+  startDate: '2023-12-11T19:35:41.657564+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:dba9af18-3dc3-40c4-81ff-350d29715143
+  - id: urn:uuid:5f3633e9-02b4-453d-b669-37d1868a9922
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
