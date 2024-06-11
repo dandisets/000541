@@ -16,9 +16,9 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 29069949574
-  numberOfFiles: 20
-  numberOfSubjects: 20
+  numberOfBytes: 30525162874
+  numberOfFiles: 21
+  numberOfSubjects: 21
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
@@ -28,7 +28,7 @@ assetsSummary:
   - ProcessingModule
   - PlaneSegmentation
 citation: Sprague, Daniel (2024) NeuroPAL Microfluidic Chip Images and GCaMP activity
-  (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  (Version 0.240611.1947) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000541/0.240611.1947
 contributor:
 - affiliation: []
   email: daniel.y.sprague@gmail.com
@@ -43,13 +43,13 @@ description: 'NeuroPAL Microfluidic chip images and GCaMP activity from "NeuroPA
   A Multicolor Atlas for Whole-Brain Neuronal Identification in C. elegans" and "Extracting
   neural signals from semi-immobilized animals with deformable non-negative matrix
   factorization." '
-doi: 10.80507/dandi.123456/0.123456.1234
-id: DANDI:000541/draft
+doi: 10.48324/dandi.000541/0.240611.1947
+id: DANDI:000541/0.240611.1947
 identifier: DANDI:000541
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000541/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000541/0.240611.1947/assets.yaml
 name: NeuroPAL Microfluidic Chip Images and GCaMP activity
 publishedBy:
   endDate: '2024-06-11T19:47:10.664897+00:00'
@@ -66,5 +66,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-url: https://dandiarchive.org/dandiset/000541/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000541/0.240611.1947
+version: 0.240611.1947
