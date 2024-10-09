@@ -30,10 +30,13 @@ assetsSummary:
   - PlaneSegmentation
 citation: Yemini, Ev; Nejatbakhsh, Amin; Venkatachalam, Vivek; Lin, Albert; Sprague,
   Daniel; Samuel, Aravinthan; Hobert, Oliver (2024) NeuroPAL Microfluidic Chip Images
-  and GCaMP activity (Version 0.240625.0452) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000541/0.240625.0452
+  and GCaMP activity (Version 0.241009.1457) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000541/0.241009.1457
 contributor:
-- includeInCitation: true
+- email: eviatar.yemini@umassmed.edu
+  includeInCitation: true
   name: Yemini, Ev
+  roleName:
+  - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
   name: Nejatbakhsh, Amin
@@ -51,8 +54,7 @@ contributor:
   email: daniel.y.sprague@gmail.com
   includeInCitation: true
   name: Sprague, Daniel
-  roleName:
-  - dcite:ContactPerson
+  roleName: []
   schemaKey: Person
 - includeInCitation: true
   name: Samuel, Aravinthan
@@ -64,30 +66,30 @@ contributor:
   name: Hobert, Oliver
   schemaKey: Person
 dateCreated: '2023-05-12T00:36:15.913485+00:00'
-datePublished: '2024-06-25T04:52:46.730633+00:00'
+datePublished: '2024-10-09T14:57:38.369511+00:00'
 description: 'NeuroPAL Microfluidic chip images and GCaMP activity from "NeuroPAL:
   A Multicolor Atlas for Whole-Brain Neuronal Identification in C. elegans" and "Extracting
   neural signals from semi-immobilized animals with deformable non-negative matrix
   factorization." '
-doi: 10.48324/dandi.000541/0.240625.0452
+doi: 10.48324/dandi.000541/0.241009.1457
 ethicsApproval: []
-id: DANDI:000541/0.240625.0452
+id: DANDI:000541/0.241009.1457
 identifier: DANDI:000541
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://dandiarchive.s3.amazonaws.com/dandisets/000541/0.240625.0452/assets.yaml
+- https://dandiarchive.s3.amazonaws.com/dandisets/000541/0.241009.1457/assets.yaml
 name: NeuroPAL Microfluidic Chip Images and GCaMP activity
 protocol: []
 publishedBy:
-  endDate: '2024-06-25T04:52:46.730633+00:00'
-  id: urn:uuid:d9088362-f9dd-47c5-aed5-b97477bada71
+  endDate: '2024-10-09T14:57:38.369511+00:00'
+  id: urn:uuid:8137bff3-84cb-4307-8d6d-b230accf1a49
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-06-25T04:52:46.730633+00:00'
+  startDate: '2024-10-09T14:57:38.369511+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:1dedd4eb-2101-4c45-819f-b8df37c1aeae
+  - id: urn:uuid:e86b5af1-26af-4276-bd86-f71a6e30f6a4
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -97,6 +99,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000541/0.240625.0452
-version: 0.240625.0452
+url: https://dandiarchive.org/dandiset/000541/0.241009.1457
+version: 0.241009.1457
 wasGeneratedBy: []
